@@ -1,0 +1,8 @@
+﻿  clp.cpp
+c:\users\sovereign\source\repos\clp\clp\clp.cpp(581): warning C4102: 'nextr': unreferenced label
+  Generating code
+  2 of 545 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  clp.vcxproj -> C:\Users\Sovereign\source\repos\clp\Release\clp.exe
